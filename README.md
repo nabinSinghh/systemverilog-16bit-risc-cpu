@@ -1,4 +1,4 @@
-# 16bit-mips-like-cpu
+# fpga-16bit-risc-processor-systemverilog
 
 This repository contains the design and implementation of a custom **16-bit MIPS-like RISC CPU**, developed as an academic computer architecture project. The processor is described in SystemVerilog, functionally verified using RTL simulation, and implemented on an FPGA.
 
