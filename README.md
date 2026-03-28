@@ -1,6 +1,16 @@
-# fpga-16bit-risc-processor-systemverilog
 
-This repository contains the design and implementation of a custom **16-bit MIPS-like RISC CPU**, developed as an academic computer architecture project. The processor is described in SystemVerilog, functionally verified using RTL simulation, and implemented on an FPGA.
+# 16-bit RISC CPU on FPGA (SystemVerilog)
+
+A custom-designed 16-bit RISC processor built from scratch in SystemVerilog and deployed on an Intel DE2-115 FPGA.  
+This project implements a complete ISA, datapath, control logic, and memory system, with full RTL verification and hardware execution.
+
+##  Highlights
+- Designed a custom MIPS-like 16-bit ISA
+- Implemented full CPU datapath + FSM-based control unit
+- Verified functionality using RTL simulation (ModelSim)
+- Executed programs via instruction memory (.hex)
+- Debugged using waveform analysis and signal tracing
+- Successfully synthesized and deployed on FPGA hardware
 
 A detailed technical report explaining the instruction set architecture (ISA), datapath design, control logic, verification strategy, and FPGA synthesis results is provided at the root of this repository.
 
