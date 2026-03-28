@@ -1,7 +1,7 @@
 
 # 16-bit RISC CPU on FPGA (SystemVerilog)
 
-A custom-designed 16-bit RISC processor built from scratch in SystemVerilog and deployed on an Intel DE2-115 FPGA.  
+Built a custom 16-bit RISC processor from scratch in SystemVerilog and deployed it on an Intel DE2-115 FPGA.
 This project implements a complete ISA, datapath, control logic, and memory system, with full RTL verification and hardware execution.
 
 ##  Highlights
