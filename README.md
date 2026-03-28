@@ -17,7 +17,13 @@ A detailed technical report explaining the instruction set architecture (ISA), d
 📄 **Project Report:** `ISA_16bit_Nabin_K_Singh.pdf`
 
 ---
+## 🧠 What I learned
+- How instructions flow through a real CPU datapath
+- Designing control logic for correct instruction execution
+- Debugging hardware using waveform analysis
+- Understanding hardware-software interaction at register level
 
+---
 
 ## Repository Structure
 ### `source_files/`
