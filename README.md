@@ -12,6 +12,12 @@ This project implements a complete ISA, datapath, control logic, and memory syst
 - Debugged using waveform analysis and signal tracing
 - Successfully synthesized and deployed on FPGA hardware(DE2-115)
 
+- ## Example Execution (Waveform)
+
+![Waveform](./waveform.png)
+
+This waveform shows correct execution of ALU instructions, including instruction fetch, register updates, and ALU outputs, for the R-type Instruction.
+
 A detailed technical report explaining the instruction set architecture (ISA), datapath design, control logic, verification strategy, and FPGA synthesis results is provided at the root of this repository.
 
 📄 **Project Report:** `ISA_16bit_Nabin_K_Singh.pdf`
