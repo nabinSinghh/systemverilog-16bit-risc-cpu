@@ -10,21 +10,11 @@ This project implements a complete ISA, datapath, control logic, and memory syst
 - Verified functionality using RTL simulation (ModelSim)
 - Executed programs via instruction memory (.hex)
 - Debugged using waveform analysis and signal tracing
-- Successfully synthesized and deployed on FPGA hardware
+- Successfully synthesized and deployed on FPGA hardware(DE2-115)
 
 A detailed technical report explaining the instruction set architecture (ISA), datapath design, control logic, verification strategy, and FPGA synthesis results is provided at the root of this repository.
 
 📄 **Project Report:** `ISA_16bit_Nabin_K_Singh.pdf`
-
----
-
-## Project Summary
-- Custom 16-bit RISC ISA inspired by MIPS
-- Single-cycle CPU datapath with centralized control unit
-- Implemented entirely in SystemVerilog
-- Functional verification using ModelSim
-- Instruction memory initialized via `.hex` files
-- Synthesized and deployed on an Intel DE2-115 FPGA board
 
 ---
 
