@@ -10,7 +10,7 @@ This project implements a complete ISA, datapath, control logic, and memory syst
 - Verified functionality using RTL simulation (ModelSim)
 - Executed programs via instruction memory (.hex)
 - Debugged using waveform analysis and signal tracing
-- Successfully synthesized and deployed on FPGA hardware(DE2-115)
+- Successfully synthesized and deployed on FPGA hardware (DE2-115)
 
 - ## Example Execution (Waveform)
 
